@@ -1,0 +1,8 @@
+[
+  {
+    "name": "BUC 信息",
+    "package": "@ali/iproxy-buc",
+    "builtin": true,
+    "internal": true
+  }
+]
