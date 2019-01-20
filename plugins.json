@@ -4,5 +4,11 @@
     "package": "@ali/iproxy-buc",
     "builtin": true,
     "internal": true
+  },
+  {
+    "name": "代理核心",
+    "package": "@iproxy/whistle",
+    "builtin": true,
+    "internal": true
   }
 ]
